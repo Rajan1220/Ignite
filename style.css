@@ -39,6 +39,11 @@
 		padding:10px;
 		color:white;   
 	}
+table
+	{
+		border-style:solid;
+		color:rgba(0,0,0,0);
+        }
 #data1
 	{
 		padding-left:2px;
