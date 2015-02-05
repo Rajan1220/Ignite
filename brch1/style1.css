@@ -31,15 +31,16 @@
 		color:blue;
 		
 	}
-#left,#main,#right{
-float:left;
-}
+#left,#main,#right
+        {
+		float:left;
+	}
 #footer
 	{
-		background-color:#FFFADC;
 		padding:10px;
 		color:white;
 		border-radius:10px;
+		background:linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%));
 		clear:both;
 		   
 	}
