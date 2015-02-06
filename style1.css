@@ -4,8 +4,8 @@
 		color:black;
 		padding:10px;
 		text-align:center;
-		border-radius:10px;	
-		background:radial-gradient(circle,#FFDEAD,#FFEFD5);
+		border-radius:20px;
+			
 	}
 #left
 	{
@@ -39,9 +39,9 @@
 #footer
 	{
 		padding:10px;
-		color:white;
 		border-radius:10px;
 		background:linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%));
 		clear:both;
+		text-shadow:0px 2px 5px black; 
 	   
 	}
