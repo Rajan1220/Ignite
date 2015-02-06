@@ -1,7 +1,6 @@
 #header	
 	{
 		background-color:#FFDEAD;
-		background-image:url("backgorund.jpg");
 		color:black;
 		padding:10px;
 		text-align:center;
@@ -18,11 +17,10 @@
 	}
 #main	
 	{
-		background-color:#FAFAD2;
 		width:888px;		
 		height:700px;
 		color:blue;
-		
+		background-image:url("background.jpg");
 	}
 #right
 	{
