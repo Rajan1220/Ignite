@@ -13,12 +13,13 @@
 		background-color:#FFEFD5;
 		width:300px;
 		height:700px;
+		float:left;
 		
 	}
 #main	
 	{
 		background-color:#FAFAD2;
-		width:586px;		
+		width:888px;		
 		height:700px;
 		color:blue;
 		
@@ -26,16 +27,11 @@
 #right
 	{
 		background-color:#FFEFD5;
-		
 		width:300px;
 		height:700px;
-		
+		float:right;
 		color:blue;
 		
-	}
-#left,#main,#right
-        {
-		float:left;
 	}
 #footer
 	{
@@ -51,6 +47,8 @@ table
 		border:solid;
 		border-radius:10px;
 		color:rgba(0,20%,0,0);
+		width:500px;
+		height:500px;
 	}	
 #data1
 	{
