@@ -19,7 +19,7 @@
 	font-size: 45px;
 }
 #mainsub p{
-	color:#CBCBC8;
+	color:#9E9E9E;
 	font-size: 15px;
 	padding-left: 1px;
 	margin-top: -3px;
@@ -44,10 +44,10 @@
 
 #left
 {
-	width:500px;
+	width:650px;
 	height:1000px;
 	float:left;
-	padding-left: 165px;
+	padding-left: 135px;
 	margin-top: 0px;
 	margin-right:0px;
     background-image:url("back.gif");
@@ -59,13 +59,13 @@
 #right
 {	
 	background-image:url("back.gif");
-	float:right;
-	width:442px;
+	float:left;
+	width:150px;
 	height:1000px;
-	padding-left: 2px;right
+	padding-left: 0px;
 	padding-right: 165px;
-	margin-left:0px;
-	margin-right:183px
+	
+	
 }
 #footleft
 {
@@ -85,10 +85,6 @@
 	width:30%;
 	height:25%;
 }
-.paradate{
-	font-family: "Times New Roman";
-	font-size: 5px;
-}
 .paraauther
 {
 	color:#D14719;
@@ -99,7 +95,7 @@
 	height:auto;
 	margin-top:0px;
 	margin-bottom:0px;
-	margin-left:-105px;
+	margin-left:-99px;
 	padding-left:0px;
 	
 }
@@ -108,13 +104,15 @@
 	height:auto%;
 	margin-top:0px;
 	margin-bottom:0px;
+	margin-left: -99px;
+
 }
 #leftbottem{
 	width:100%;
 	height:auto;
 	margin-top:0px;
 	margin-bottom:0px;
-
+	margin-left: -102px;
 }
 #lefttop,#leftmid,#leftbottem{
 	float:left;
@@ -139,5 +137,40 @@
 	font-family: "New Times Roman";
 	}
 
-
-
+.parahead{
+	margin-left: -18px;
+	margin-top: 25px;
+	font-size: 30px;
+	word-spacing: -3px;
+	color:#D14719;
+}
+.paradate{
+	color:#9E9E9E;
+	font-size:12px ;
+	margin-top: -20px;
+	margin-left: -14px;
+	font-weight: bold;
+	}
+.post{
+	float: right;
+	color:#9E9E9E;
+	margin-top: -18px;
+	margin-right: -65px;
+	font-size:12px ;
+}
+.textdata{
+	color:#9E9E9E;
+	margin-left: -17px;
+	margin-top: 20px;
+	height:100%;
+	font-size: 14px;
+}
+#txt{
+	width:760px;
+}
+#txt1{
+	width: 768px;
+}
+#txt2{
+	width:768px;
+}
