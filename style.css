@@ -2,7 +2,7 @@
 {
 	background-image:url("img03.gif");
 	width:1400px;
-	height:1430px;
+	height:1677px;
 
 }		
 #mainsub{
@@ -45,7 +45,7 @@
 #left
 {
 	width:650px;
-	height:1000px;
+	height:1300px;
 	float:left;
 	padding-left: 135px;
 	margin-top: 0px;
@@ -61,7 +61,7 @@
 	background-image:url("back.gif");
 	float:left;
 	width:318px;
-	height:1000px;
+	height:1300px;
 	padding-left: 0px;
 	padding-right: 165px;
 	
@@ -69,21 +69,27 @@
 }
 #footleft
 {
-	flaot:left;
-	padding-left:165px;
+	margin-left: -92px;
+	margin-top: 45px;
 	width:30%;
 	height:25%;
 }
 #footmid
 {
+	margin-top: 45px;
 	width:30%;
 	height:25%;
+	padding-left: 70px;
 }
 #footright
 {
-	float:right;
+	margin-top: 45px;
 	width:30%;
 	height:25%;
+	padding-left: 55px;
+}
+#footleft,#footmid,#footright{
+	float:left;	
 }
 #lefttop{
 	width:100%;
@@ -196,10 +202,10 @@
 	margin-top: -92px;
 }
 #rightmid2{
-	
+	margin-top: -96px;	
 }
 #rightbottem{
-	
+	margin-top: -96px;	
 }
 .righthead{
 	color:#D14719;
@@ -220,10 +226,18 @@
 	line-height: 2;
 	margin-top: -18px;
 }
+.lfoothead{
+	margin-left: -22px;
+	color: #fff;
+	font-size: 22px;
+}
+#bottomls{
 
-
-
-
+}
+.blist{
+	color: #D14719;	
+	margin-left: -28px;
+}
 
 
 
