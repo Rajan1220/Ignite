@@ -176,7 +176,16 @@
 	margin-left:20px;
 	margin-top:25px;
 }
-#search{
-	margin-top:65px;
-	margin-left:30px;
+#searchbar{
+	margin-top: 58px;
+	float: left;
+	margin-left: 46px;
 }
+#gobutton{
+	margin-top: 58px;
+	margin-right: -47px;
+	float: right;
+}
+#searchbar , #gobutton{
+
+	}
