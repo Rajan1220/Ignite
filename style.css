@@ -60,7 +60,7 @@
 {	
 	background-image:url("back.gif");
 	float:left;
-	width:150px;
+	width:318px;
 	height:1000px;
 	padding-left: 0px;
 	padding-right: 165px;
@@ -121,6 +121,7 @@
 #m{
 	color:#D14719;
 	font-size: 12px;
+	margin-left: 85px;
 	}
 #m1,#m2,#m3,#m4,#m5{
 	padding-left: 35px;
@@ -179,13 +180,53 @@
 #searchbar{
 	margin-top: 58px;
 	float: left;
-	margin-left: 46px;
+	margin-left: 201px;
 }
 #gobutton{
 	margin-top: 58px;
-	margin-right: -47px;
+	margin-right: -45px;
 	float: right;
 }
-#searchbar , #gobutton{
 
-	}
+#righttop{
+	margin-top: 10px;
+
+}
+#rightmid1{
+	margin-top: -92px;
+}
+#rightmid2{
+	
+}
+#rightbottem{
+	
+}
+.righthead{
+	color:#D14719;
+	font-size: 26px;
+	margin-top: 118px;
+	margin-left: 103px;
+}
+.righttext{
+	color:#969696;	
+	font-size: 14px;
+	margin-left: 102px;
+}
+.listtext{
+	color:#969696;
+}
+#ls{
+	margin-left: 89px;
+	line-height: 2;
+	margin-top: -18px;
+}
+
+
+
+
+
+
+
+
+
+
