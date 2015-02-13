@@ -2,7 +2,7 @@
 {
 	background-image:url("img03.gif");
 	width:1400px;
-	height:1677px;
+	height:1695px;
 
 }		
 #mainsub{
@@ -45,7 +45,7 @@
 #left
 {
 	width:650px;
-	height:1300px;
+	height:1318px;
 	float:left;
 	padding-left: 135px;
 	margin-top: 0px;
@@ -61,7 +61,7 @@
 	background-image:url("back.gif");
 	float:left;
 	width:318px;
-	height:1300px;
+	height:1318px;
 	padding-left: 0px;
 	padding-right: 165px;
 	
@@ -70,23 +70,23 @@
 #footleft
 {
 	margin-left: -92px;
-	margin-top: 45px;
-	width:30%;
-	height:25%;
+	margin-top: 0px;
+	width:50%;
+	height:24%;
 }
 #footmid
 {
-	margin-top: 45px;
-	width:30%;
-	height:25%;
+	margin-top: 0px;
+	width:50%;
+	height:24%;
 	padding-left: 70px;
 }
-#footright
+#rightbottem1
 {
-	margin-top: 45px;
-	width:30%;
-	height:25%;
-	padding-left: 55px;
+	margin-top:-11px;
+	width:100%;
+	height:13%;
+	margin-left:95px;
 }
 #footleft,#footmid,#footright{
 	float:left;	
@@ -94,7 +94,7 @@
 #lefttop{
 	width:100%;
 	height:auto;
-	margin-top:10px;
+	margin-top:0px;
 	margin-bottom:0px;
 	margin-left:-99px;
 	padding-left:0px;
@@ -103,14 +103,14 @@
 #leftmid{
 	width:100%;
 	height:auto%;
-	margin-top:10px;
+	margin-top:3px;
 	margin-left:-99px;
 
 }
 #leftbottem{
 	width:100%;
 	height:auto;
-	margin-top:10px;
+	margin-top:3px;
 	margin-left: -101px;
 }
 #lefttop,#leftmid,#leftbottem{
@@ -159,12 +159,13 @@
 	font-size:12px ;
 }
 .textdata{
-	color:#969696;
+	color:#5E5E5E;
 	margin-left: -17px;
 	margin-top: 20px;
 	height:100%;
 	font-size: 14px;
 	text-wrap:yes;
+	font-family:arial;
 }
 #txt{
 	width:760px;
@@ -186,7 +187,7 @@
 #searchbar{
 	margin-top: 58px;
 	float: left;
-	margin-left: 201px;
+	margin-left: 98px;
 }
 #gobutton{
 	margin-top: 58px;
@@ -195,14 +196,14 @@
 }
 
 #righttop{
-	margin-top: 10px;
+	margin-top: -20px;
 
 }
 #rightmid1{
 	margin-top: -92px;
 }
 #rightmid2{
-	margin-top: -96px;	
+	margin-top: -108px;	
 }
 #rightbottem{
 	margin-top: -96px;	
@@ -214,12 +215,13 @@
 	margin-left: 103px;
 }
 .righttext{
-	color:#969696;	
+	color:#5E5E5E;	
 	font-size: 14px;
 	margin-left: 102px;
 }
 .listtext{
-	color:#969696;
+	color:#5E5E5E;
+	font-family:arial;
 }
 #ls{
 	margin-left: 89px;
@@ -229,7 +231,7 @@
 .lfoothead{
 	margin-left: -22px;
 	color: #fff;
-	font-size: 22px;
+	font-size: 25px;
 }
 #bottomls{
 
@@ -237,8 +239,20 @@
 .blist{
 	color: #D14719;	
 	margin-left: -28px;
+	font-family:arial;
+	margin-top: 22px;
 }
+#footnote{
+	
+	width:600px;
+	
 
+}
+.note{
+	color:#5E5E5E;
+	font-size:10px;
+	margin-left:175px;
+}
 
 
 
