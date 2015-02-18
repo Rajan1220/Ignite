@@ -1,16 +1,12 @@
-<html>
-	<head>
-		<title>php</title>
-		
-	</head>
-	<body>
-		<?php
-			function test()
-			{
-				$x="This is first page";
-				echo "$x";
-			}
-			test();
-		?>
-	</body>
-</html>
+<?php
+;	
+	
+	function sum ()
+	{
+		$x=5;
+		$y=21;
+		$sum=$x+$y;
+		print 'Addition of x and y is:'.$sum;	
+	}	
+sum();
+?>
