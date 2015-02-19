@@ -108,4 +108,63 @@ aside
 {
 	margin-top: -915px;
 }
-
+#headaside
+{
+	color:#D14719;
+	font-size: 25px;
+	margin-top: -864px;
+	margin-left: 42px;
+}
+#asidetxt
+{
+	color:#9E9E9E;
+	font-size: 13px;
+	margin-left: 45px;
+	margin-top: -10px;
+}
+#headaside2
+{
+	color:#D14719;
+	font-size: 25px;
+	margin-left:45px;
+}
+#aisdels
+{
+	color: #9E9E9E;
+	margin-left: 25px;
+	line-height: 2;
+	font-size: 13px;
+}
+#bottom
+{
+	background-image: url("back.gif");
+	width: 1000px;
+	margin-left: 100px;
+	height: 400px;
+	margin-top: -17px;
+}
+#boot1
+{
+	width: 35%;
+	height: 300px;
+	
+}
+#boot2
+{
+	width: 35%;
+	height: 300px;
+	margin-top: -317px;
+	margin-left: 390px;
+	
+}
+#boot3
+{
+	color:#9E9E9E;
+	margin-top: 86px;
+	margin-left: 19px;
+}
+#bootls
+{
+	color:#D14719;
+	list-style-type: disc;
+}
