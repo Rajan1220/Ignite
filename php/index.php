@@ -1,6 +1,12 @@
 <?php
-
-	echo 'this is my first php program';
+	echo '*******************************************';
+	echo "\nUse of php Functions and Classes:";
+	echo "\n*******************************************";
+	echo "\n";
+	echo "\n********************************************";
+	echo "\nPerforming Operations using Functions:";
+	echo "\n*******************************************";
+	echo "\n";
 	function sum()
 	{
 		$x=10;
@@ -33,8 +39,10 @@
 	sub();
 	mul();
 	div();
-echo "\n***********************************************************";
-echo "\nNow performing operations using classes:";
+echo "\n";
+echo "\n*****************************************************";
+echo "\nNow Performing Operations using Classes:";
+echo "\n*****************************************************";
 claSS arithop
 	{	
 		public function add()
@@ -49,7 +57,7 @@ claSS arithop
 			$a=4;
 			$b=101;
 			$minus=$a-$b;
-			echo "\nSubtraction of $a and $b is".$minus;
+			echo "\nSubtraction of $a and $b is:".$minus;
 		}
 		public function product()
 		{
@@ -66,7 +74,7 @@ claSS arithop
 			echo "\nDivision of $a and $b is:".$divison;
 		}	
 	}
-$obj=new arithop;
+$obj=new arithop();
 echo "\n";
 $obj-> add();	
 $obj-> minus();
